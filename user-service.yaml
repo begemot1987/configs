@@ -1,5 +1,6 @@
 spring:
   jpa:
     show-sql: true
-user-service:
-  max: 3
+    
+server:
+  port: 9093
