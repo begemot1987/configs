@@ -1,5 +1,4 @@
-user-service:
-  spring:
-    jpa:
-      show-sql: true
+spring:
+  jpa:
+    show-sql: true
 #user-service.spring.h2.console.enabled=true
