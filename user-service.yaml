@@ -1,4 +1,5 @@
 spring:
   jpa:
     show-sql: true
-#user-service.spring.h2.console.enabled=true
+user-service:
+  max: 3
